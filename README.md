@@ -1,7 +1,3 @@
-
-# MDE@DeRun 2021
-### _Third International Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems_ — _Co-located with MODELS 2021_
-
 Over the last decade, the growing complexity of software-intensive systems has led both industry and academy to investigate on the use of different development techniques in order to manage their many different aspects.
 Indeed, current Cyber-Physical Systems (CPSs) call for modern engineering practices to tackle advances in productivity and quality in several domains such as automotive, health-care, aerospace, industrial control or automation.
 
@@ -18,7 +14,7 @@ This is a real issue since these models are the ones typically associated with s
 The aim of this workshop is to provide a venue where both researchers and practitioners on model-based engineering can meet, disseminate and exchange ideas around this important problem of Design-Runtime Interaction.
 The objective is also to come up with related challenges, to identify key issues to be addressed by the community and explore potential solutions to them. 
 
-## Goals
+# Goals
 
 The aim of this workshop is to provide a venue where both researchers and practitioners on model-based engineering can meet, disseminate and exchange ideas around the topic of design--runtime interaction in continuous software development of complex systems. The aim of this event is to come up with related challenges, to identify key issues to be addressed by the community and to explore potential solutions to them. 
 The objective is also to come up with an agenda that can drive the research activities on design and runtime interaction for the next years.
@@ -33,15 +29,15 @@ Possible topics include notably (among possibly others):
 * V&V mechanisms for linking results of runtime analysis (e.g. from execution traces) with design models expressing system requirements (both functional and non-functional ones).
 * (Industrial) Case studies, experience reports, literature reviews or visionary positions related to any of the previously mentioned topics.
 
-## Important dates
+# Important dates
 
-* Deadline for abstracts: TBD
-* Deadline for submission: TBD
-* Notification: TBD
-* Camera-ready: TBD
-* Workshop date: TBD
+* Deadline for abstracts: TBA
+* Deadline for submission: TBA
+* Notification: TBA
+* Camera-ready: TBA
+* Workshop date: TBA
 
-## Submission guidelines
+# Submission guidelines
 
 Papers must be submitted in PDF format and strictly adhere to the IEEE proceedings format. We advocate two types of papers:
 
@@ -51,24 +47,24 @@ Papers must be submitted in PDF format and strictly adhere to the IEEE proceedin
 Paper submissions will be made electronically via the workshop submission web page. All submissions must be original work, and must not have been previously published, nor be under consideration for publication, elsewhere.
 At least one author of each accepted paper should register for the conference and participate in the workshop.
 
-## Paper evaluation process
+# Paper evaluation process
 
 All submissions will be reviewed by at least three members of the program committee.
 
-## Workshop Proceedings
+# Workshop Proceedings
 
-TBD
+TBA
 
-## Organization & Program Committee
+# Organization & Program Committee
 
-### Organizers
+## Organizers
 
 * Hugo Bruneliere (IMT Atlantique & LS2N – CNRS)
 * Romina Eramo (University of L’Aquila)
 * Abel Gómez (Universitat Oberta de Catalunya)
 
-For further information, please send us an email at mdederun2021@easychair.org.
+For further information, please send us an email at (not available yet).
 
-### Program Committee
+## Program Committee
 
-TBD
+TBA
