@@ -39,7 +39,7 @@ Possible topics include notably (among possibly others):
 
 # Submission guidelines
 
-Papers must be submitted in PDF format and strictly adhere to the IEEE proceedings format. We advocate two types of papers:
+Papers must be submitted in PDF format and strictly adhere to the [IEEE conference proceedings format](https://www.ieee.org/conferences/publishing/templates.html). We advocate two types of papers:
 
 * Research papers (maximum 10 pages);
 * Short papers (maximum 6 pages) describing experience reports, tool demonstrations or position papers.
