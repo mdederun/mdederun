@@ -31,11 +31,11 @@ Possible topics include notably (among possibly others):
 
 # Important dates
 
-* Deadline for abstracts: TBA
-* Deadline for submission: TBA
-* Notification: TBA
-* Camera-ready: TBA
-* Workshop date: TBA
+* Deadline for abstract: July 15, 2021
+* Deadline for submission: July 22, 2021
+* Notification: August 21, 2021
+* Camera-ready: August 28, 2021
+* Workshop date: October XX, 2021 (to be determined)
 
 # Submission guidelines
 
@@ -44,7 +44,8 @@ Papers must be submitted in PDF format and strictly adhere to the [IEEE conferen
 * Research papers (maximum 10 pages);
 * Short papers (maximum 6 pages) describing experience reports, tool demonstrations or position papers.
 
-Paper submissions will be made electronically via the workshop submission web page. All submissions must be original work, and must not have been previously published, nor be under consideration for publication, elsewhere.
+Paper submissions will be made electronically via the workshop submission web page - LINK TO BE PROVIDED SOON.
+All submissions must be original work, and must not have been previously published, nor be under consideration for publication, elsewhere.
 At least one author of each accepted paper should register for the conference and participate in the workshop.
 
 # Paper evaluation process
@@ -53,7 +54,7 @@ All submissions will be reviewed by at least three members of the program commit
 
 # Workshop Proceedings
 
-TBA
+All accepted papers will be included in the joint MODELS workshop proceedings published by the IEEE.
 
 # Organization & Program Committee
 
@@ -67,4 +68,24 @@ For further information, please send us an email at (not available yet).
 
 ## Program Committee
 
-TBA
+* Orlando Avila-Garcia (Atos Spain SA)
+* Alessandra Bagnato (Softeam)
+* Simona Bernardi (Universidad de Zaragoza)
+* Alessio Bucaioni (Malardalen University)
+* Jean-Michel Bruel (IRIT & Universite de Toulouse)
+* Jordi Cabot (ICREA -Universitat Oberta de Catalunya)
+* Federico Ciccozzi (Malardalen University)
+* Cristóbal Costa-Soria (ITI -Instituto Tecnologico de Informática)
+* Juergen Dingel (Queen's School of Computing)
+* Davide Di Ruscio (University of L'Aquila)
+* Sébastien Gérard (CEA LIST)
+* Jesús GorronogoitiaCruz (Atos Spain SA)
+* Andreas Hametner (Dynatrace)
+* José Merseguer (Universidad de Zaragoza)
+* Saad Mubeen (Malardalen University)
+* Gerson Sunyé (University of Nantes & LS2N -CNRS)
+* Jagadish Suryadevara (Volvo CE)
+* Henri Terho (Qentinel)
+* MassimoTisi (IMT Atlantique  & LS2N -CNRS)
+* Andrey Sadovykh (Innopolis University & Softeam)
+* Manuel Wimmer (JKU)
