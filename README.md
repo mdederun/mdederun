@@ -44,7 +44,7 @@ Papers must be submitted in PDF format and strictly adhere to the [IEEE conferen
 * Research papers (maximum 10 pages);
 * Short papers (maximum 6 pages) describing experience reports, tool demonstrations or position papers.
 
-Paper submissions will be made electronically via the workshop submission web page - LINK TO BE PROVIDED SOON.
+Paper submissions will be made electronically via the workshop submission web page - [https://easychair.org/conferences/?conf=mdederun2021](https://easychair.org/conferences/?conf=mdederun2021)
 All submissions must be original work, and must not have been previously published, nor be under consideration for publication, elsewhere.
 At least one author of each accepted paper should register for the conference and participate in the workshop.
 
@@ -64,7 +64,7 @@ All accepted papers will be included in the joint MODELS workshop proceedings pu
 * Romina Eramo (University of L’Aquila)
 * Abel Gómez (Universitat Oberta de Catalunya)
 
-For further information, please send us an email at (not available yet).
+For further information, please send us an email at *mdederun2021@easychair.com*.
 
 ## Program Committee
 
