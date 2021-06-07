@@ -35,7 +35,7 @@ Possible topics include notably (among possibly others):
 * Deadline for submission: July 22, 2021
 * Notification: August 21, 2021
 * Camera-ready: August 28, 2021
-* Workshop date: October XX, 2021 (to be determined)
+* Workshop date: October 10-15, 2021
 
 # Submission guidelines
 
@@ -55,7 +55,7 @@ All submissions will be reviewed by at least three members of the program commit
 
 # Workshop Proceedings
 
-All accepted papers will be included in the joint MODELS workshop proceedings published by the IEEE.
+All accepted papers will be published in the IEEE MODELS Companion Proceedings.
 
 # Organization & Program Committee
 
@@ -69,24 +69,19 @@ For further information, please send us an email at *mdederun2021@easychair.com*
 
 ## Program Committee
 
-* Orlando Avila-Garcia (Atos Spain SA)
 * Alessandra Bagnato (Softeam)
 * Simona Bernardi (Universidad de Zaragoza)
 * Alessio Bucaioni (Malardalen University)
 * Jean-Michel Bruel (IRIT & Universite de Toulouse)
-* Jordi Cabot (ICREA -Universitat Oberta de Catalunya)
 * Federico Ciccozzi (Malardalen University)
 * Cristóbal Costa-Soria (ITI -Instituto Tecnologico de Informática)
 * Juergen Dingel (Queen's School of Computing)
 * Davide Di Ruscio (University of L'Aquila)
-* Sébastien Gérard (CEA LIST)
 * Jesús GorronogoitiaCruz (Atos Spain SA)
-* Andreas Hametner (Dynatrace)
 * José Merseguer (Universidad de Zaragoza)
-* Saad Mubeen (Malardalen University)
 * Gerson Sunyé (University of Nantes & LS2N -CNRS)
 * Jagadish Suryadevara (Volvo CE)
-* Henri Terho (Qentinel)
-* MassimoTisi (IMT Atlantique  & LS2N -CNRS)
+* Massimo Tisi (IMT Atlantique  & LS2N -CNRS)
+* Michele Tucci (University of L'Aquila)
 * Andrey Sadovykh (Innopolis University & Softeam)
 * Manuel Wimmer (JKU)
