@@ -1,7 +1,7 @@
-Over the last decade, the growing complexity of software-intensive systems has led both industry and academy to investigate on the use of different development techniques in order to manage their many different aspects.
+Over the last decade, the growing complexity of software-intensive systems has led both industry and academics to investigate the use of different development techniques in order to manage their many different aspects.
 Indeed, current Cyber-Physical Systems (CPSs) call for modern engineering practices to tackle advances in productivity and quality in several domains such as automotive, health-care, aerospace, industrial control or automation.
 
-In this this context, Model-Driven Engineering (MDE) is increasingly applied to larger and more complex systems. However, MDE principles and techniques still need to be further developed to 1) scale up for real-life industrial projects and 2) provide more benefits at runtime (i.e. both during and after system execution). 
+In this context, Model-Driven Engineering (MDE) is increasingly applied to larger and more complex systems. However, MDE principles and techniques still need to be further developed to 1) scale up for real-life industrial projects and 2) provide more benefits at runtime (i.e. both during and after system execution). 
 
 The general use of models and model-based approaches has already been intensively investigated both at design time (e.g. for driving the development of complex systems) and at runtime (e.g. to support deployment, monitoring or adaptations).
 However, the existing approaches remain mostly independent from each other: in fact, design and runtime levels are too often not sufficiently interconnected, if connected at all.
@@ -17,7 +17,7 @@ The objective is also to come up with related challenges, to identify key issues
 # Goals
 
 The aim of this workshop is to provide a venue where both researchers and practitioners on model-based engineering can meet, disseminate and exchange ideas around the topic of design--runtime interaction in continuous software development of complex systems. The aim of this event is to come up with related challenges, to identify key issues to be addressed by the community and to explore potential solutions to them. 
-The objective is also to come up with an agenda that can drive the research activities on design and runtime interaction for the next years.
+The objective is also to come up with an agenda that can drive the research activities on design and runtime interaction for next years.
 Possible topics include notably (among possibly others):
 
 * Model-driven techniques, methods and tools supporting Continuous Systems Engineering, applicable to different design flows, development processes and principles (including DevOps and AIOps).
