@@ -31,7 +31,7 @@ Possible topics include notably (among possibly others):
 
 # Important dates
 
-* Deadline for submission: July 22, 2021
+* Deadline for submission: July 28, 2021 (extended deadline)
 * Notification: August 21, 2021
 * Camera-ready: August 28, 2021
 * Workshop date: October 10-15, 2021
