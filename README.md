@@ -31,7 +31,6 @@ Possible topics include notably (among possibly others):
 
 # Important dates
 
-* Deadline for abstract: July 15, 2021
 * Deadline for submission: July 22, 2021
 * Notification: August 21, 2021
 * Camera-ready: August 28, 2021
