@@ -41,7 +41,7 @@ Possible topics include notably (among possibly others):
 Papers must be submitted in PDF format and strictly adhere to the [IEEE conference proceedings format](https://www.ieee.org/conferences/publishing/templates.html). We advocate two types of papers:
 
 * Research papers (maximum 10 pages);
-* Short papers (maximum 6 pages) describing experience reports, tool demonstrations or position papers.
+* Short papers (maximum 6 pages) describing ongoing research, experience reports, tool demonstrations or new ideas / position papers.
 
 Paper submissions will be made electronically via the workshop submission web page - [https://easychair.org/conferences/?conf=mdederun2021](https://easychair.org/conferences/?conf=mdederun2021). 
 
